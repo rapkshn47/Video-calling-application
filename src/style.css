@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.video-container{
+    display: flex;
+
+}
+
+.video-box{
+    width: "50px";
+}
+
+gridContainer {
+    justifyContent: "center",
+    
+  }
+
+  paper {
+    padding: 10px;
+    border:2px solid black;
+    margin: 10px
+  }
